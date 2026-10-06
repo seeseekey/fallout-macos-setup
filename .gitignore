@@ -1,0 +1,18 @@
+# macOS metadata
+.DS_Store
+._*
+
+# GOG offline installers
+/setup_fallout*.exe
+/setup_fallout*.bin
+
+# Downloaded Community Edition disk images and temporary downloads
+/fallout-ce-macos.dmg
+/fallout2-ce-macos.dmg
+/fallout-ce-macos.dmg.download.*
+/fallout2-ce-macos.dmg.download.*
+
+# Editor backup and swap files
+*~
+*.swp
+*.swo
